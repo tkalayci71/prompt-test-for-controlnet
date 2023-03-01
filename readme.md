@@ -16,3 +16,11 @@
 ![image](img/preview4.jpg)
 ![image](img/preview5.jpg)
 
+### Bling test:
+
+prompt: underwater, sunbeams, light rays, reflections, sparkle, shimmer, bubbles, seashells, pearls, glitter, bling
+Negative prompt: cartoon
+Steps: 20, Sampler: Heun, CFG scale: 7, Seed: 2792489378, Size: 512x512, Model hash: 93a10d6661, Model: ProtoGen_X5.3-pruned-fp16, ControlNet Enabled: True, ControlNet Module: depth_leres, ControlNet Model: control_depth-fp16 [400750f6], ControlNet Weight: 1, ControlNet Guidance Strength: 1
+
+![image](bling.jpg)
+
