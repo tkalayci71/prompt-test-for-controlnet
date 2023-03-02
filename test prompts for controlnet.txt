@@ -33,7 +33,7 @@ carpet statue
 rose statue
 soap bubble statue
 cotton candy statue
-sea shell statue
+seashell statue
 winter statue
 ice statue
 water statue
@@ -54,3 +54,23 @@ egyptian statue
 gothic statue
 vampire statue
 pirate statue
+mummy statue
+claymation statue
+underwater statue
+coral statue
+velvet statue
+silk statue
+ivory statue
+chrome statue
+aluminum foil statue
+silver statue
+turquoise statue
+aquamarine  statue
+fluorite statue
+nephrite statue
+celestite statue
+moonstone statue
+sunstone statue
+smoky quartz statue
+opal statue
+fire opal statue
