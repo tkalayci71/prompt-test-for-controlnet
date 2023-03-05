@@ -16,6 +16,8 @@
 ![image](img/preview4.jpg)
 ![image](img/preview5.jpg)
 ![image](img/preview6.jpg)
+![image](img/preview7.jpg)
+![image](img/preview8.jpg)
 
 ### Bling test:
 
