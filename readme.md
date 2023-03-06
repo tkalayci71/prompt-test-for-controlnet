@@ -27,3 +27,8 @@ Steps: 20, Sampler: Heun, CFG scale: 7, Seed: 2792489378, Size: 512x512, Model h
 
 ![image](bling.jpg)
 
+### Combined prompts test:
+
+![image](img/combined_preview1.jpg)
+![image](img/combined_preview2.jpg)
+
