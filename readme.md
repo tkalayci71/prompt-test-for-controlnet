@@ -32,3 +32,7 @@ Steps: 20, Sampler: Heun, CFG scale: 7, Seed: 2792489378, Size: 512x512, Model h
 ![image](img/combined_preview1.jpg)
 ![image](img/combined_preview2.jpg)
 
+### Photo effects test:
+![image](img/effects_preview1.jpg)
+![image](img/effects_preview2.jpg)
+
