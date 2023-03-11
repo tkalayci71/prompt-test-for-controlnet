@@ -22,3 +22,4 @@ wide angle photo
 diffuse reflection
 partial reflections
 prism lens effect
+dappled light
