@@ -1,3 +1,25 @@
+wet
+denim
+ripped denim
+satin
+pompom
+cosy
+cool
+hot
+happy
+sad
+pendant
+chains
+armor
+fog
+web
+crepe paper
+band aid
+bubble maker
+magic wand
+alien
+sawdust
+cork
 dark
 pastel
 neon
@@ -39,7 +61,7 @@ brass
 bronze
 obsidian
 wooden
-chestnut
+chestnut wood
 rosewood
 leather
 chocolate
@@ -104,7 +126,6 @@ opal
 fire opal
 resin
 caramel
-keychain
 porcelain
 plush
 polystyrene
@@ -187,15 +208,7 @@ seashells
 pearls
 glitter
 bling
-
-wet
-denim
-ripped denim
-chains
-satin
-cosy
-warm
-cool
-hot
-happy
-sad
+glow
+grace
+vanity
+glory
