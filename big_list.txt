@@ -1,3 +1,18 @@
+backlight, silhouette
+extravagant, masquerade
+elegant, silk brocade
+bling, sequin, jewelry
+angelic, satin, lace
+tropical, pearls, seashells
+sparkle
+glitter
+sequin
+shiny
+glossy
+shiny armor
+dark, velvet, leather, obsidian
+rainbow
+storm
 wet
 denim
 ripped denim
@@ -212,3 +227,26 @@ glow
 grace
 vanity
 glory
+
+clouds
+shadow
+android
+cyborg
+toy
+royal
+imperial
+dragon
+mystical
+dreamy
+dream
+hybrid
+liquid
+aura
+Streetwear
+majestic
+splash
+balloon
+laser beams
+electric sparks
+backlight, silhouette, bokeh
+candid photography
