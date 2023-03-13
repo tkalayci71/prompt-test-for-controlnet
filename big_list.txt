@@ -248,6 +248,7 @@ splash
 balloon
 laser beams
 electric sparks
+lightning sparks
 backlight, silhouette, bokeh
 candid photography
 skeleton
@@ -257,4 +258,32 @@ muscle
 zombie
 divine
 floral arrangement
-botanic
+cosplay
+jester costume
+anatomy costume
+music box
+x-ray
+golden hour
+slow motion
+candle light
+baroque
+etched metal
+ancient coin
+vaporwave
+coloring book style
+popup book style
+outline glow
+carcass
+autopsy
+missing textures
+placeholder textures
+wireframe textures
+film grain
+movie still
+light bulb
+glass case
+aquarium
+solarium
+moonlight
+sunset
+death
